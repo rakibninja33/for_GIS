@@ -1,0 +1,369 @@
+{
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 90.39810419999999, 23.875770499999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Home"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.4010563, 23.7270422 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Department of Disaster Science and Management, High Court Street, Dhaka, Bangladesh",
+      "name" : "Work"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 92.1294222, 25.134681 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "The Base"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.526547, 23.831068 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Home Purbachal"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.41591179999999, 26.029796899999997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Dadu Bari"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.3412374, 25.344942 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Babu Mama"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.4195452, 26.033670299999997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Mukul Bhai"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.4120849, 23.8576715 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Rekha Khalamoni"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.44012599999999, 23.846671699999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Dhaka 1230, Bangladesh",
+      "name" : "Hamzaaaaa"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.416535, 23.875661299999997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Niloy"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.249444, 25.745244 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Rumman"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 91.8228695, 22.3581981 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Sohel Mama CU"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.2465474, 25.7441906 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Apu Bhaiya"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.4125013, 23.855170299999997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Rimma"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.4186768, 26.0336404 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Babar Dadubari"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.422328, 23.786517 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Boro Baba"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.3648284, 23.740567499999997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Sadi Bhaiya"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.3539433, 23.824865799999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Faiza"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.1375166, 26.1280777 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Linta apu"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.37136699999999, 25.871287799999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Razzak Nanu"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 88.6555649, 25.6493099 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Bubai Dada"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.4337377, 25.913172 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Afsar Dulabhai"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.32727249999999, 25.798907999999997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Nanu Bari"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.176654, 25.76007 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Pinku"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.959723, 24.216973 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Nirjhar Bhaiya"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.4461027, 23.705581799999997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Masud Bhai"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.4415513, 23.7884171 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Moriom Apu"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.26910029999999, 23.9245809 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Dipu Bhaiya"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.3554193, 23.790332499999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Dhaka, Bangladesh",
+      "name" : "Saifun Khalamoni"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.4121576, 23.8523474 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Rekha Khalamoni"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.5088942, 23.750652 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Raza"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 89.3176886, 25.7679448 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "MasHari"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 91.7989441, 22.3244004 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "149 CDA Rd Number 1, Chittagong, Bangladesh",
+      "name" : "Niloy"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.4365614, 24.7183975 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Abid Mama"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.36755149999999, 23.821923299999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Toma Khalamoni"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.42071399999999, 23.735419 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Rafi Mama"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 91.1510646, 23.557993399999997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Burichang Upazila, Bangladesh",
+      "name" : "Niloy Home"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.39994349999999, 23.878636399999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Mahin"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 90.73273499999999, 23.597974 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Anowar Khalu"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 92.1287318, 25.135024899999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "The Camp"
+    },
+    "type" : "Feature"
+  } ],
+  "type" : "FeatureCollection"
+}
